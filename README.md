@@ -1,6 +1,6 @@
 # Midas Touch
 
-We foster the growth of new talent through training, mentoring and real opportunities. We transform potential into trajectory.
+Midas Touch is a landing page that promotes new talent through training, mentoring, and opportunities for professional growth.
 
 - [🌐 Website Demo.](https://bryangrandon.github.io/Midas-Touch/)
 
